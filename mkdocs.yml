@@ -1,0 +1,16 @@
+site_name: SingularitYu's blog
+theme:
+  name: material
+  palette:
+    scheme: default
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+    features:
+      - navigation.tabs.autoscroll
+      - navigation.tabs.stretch
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: images/logo.png
+  favicon: images/favicon.png
