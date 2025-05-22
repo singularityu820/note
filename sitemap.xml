@@ -1,3 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://singularityu820.github.io/note/</loc>
+         <lastmod>2025-05-22</lastmod>
+    </url>
+    <url>
+         <loc>https://singularityu820.github.io/note/links/</loc>
+         <lastmod>2025-05-22</lastmod>
+    </url>
+    <url>
+         <loc>https://singularityu820.github.io/note/tags/</loc>
+         <lastmod>2025-05-22</lastmod>
+    </url>
+    <url>
+         <loc>https://singularityu820.github.io/note/blog/</loc>
+         <lastmod>2025-05-22</lastmod>
+    </url>
+    <url>
+         <loc>https://singularityu820.github.io/note/blog/2025/05/16/happy-new-years-eve/</loc>
+         <lastmod>2025-05-22</lastmod>
+    </url>
+    <url>
+         <loc>https://singularityu820.github.io/note/blog/archive/2025/</loc>
+         <lastmod>2025-05-22</lastmod>
+    </url>
 </urlset>
