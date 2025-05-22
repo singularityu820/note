@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+---
+hide:
+  # - navigation # 显示右
+  # - toc #显示左
+  - footer
+  - feedback
+comments: false
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<div style="text-align: center; color: #757575; font-size: 2.5em">Know things, went places, done deeds, won fights, and still cute</div>
